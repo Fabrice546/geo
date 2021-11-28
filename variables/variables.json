@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "link": "https://api.ipgeolocation.io/ipgeo?apiKey=",
+    "ipgeo": "&ip=",
+    "apikey": "",
+    "lang": "&lang=",
+    "language": "fr",
+    "prefix": "+"
+}
